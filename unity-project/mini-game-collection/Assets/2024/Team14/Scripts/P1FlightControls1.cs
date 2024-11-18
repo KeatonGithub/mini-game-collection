@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class FlightControls : MonoBehaviour
+public class P1FlightControls : MonoBehaviour
 {
     public float speed = 10f;              // Speed for X-Y movement
     public float rotationSpeed = 100f;    // Rotation speed
